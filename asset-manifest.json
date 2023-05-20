@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HarishCryptotrcC2/static/css/main.46d7d256.css",
+    "main.js": "/HarishCryptotrcC2/static/js/main.6889cba9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/HarishCryptotrcC2/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/HarishCryptotrcC2/index.html",
+    "main.46d7d256.css.map": "/HarishCryptotrcC2/static/css/main.46d7d256.css.map",
+    "main.6889cba9.js.map": "/HarishCryptotrcC2/static/js/main.6889cba9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/HarishCryptotrcC2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d7d256.css",
+    "static/js/main.6889cba9.js"
+  ]
+}
